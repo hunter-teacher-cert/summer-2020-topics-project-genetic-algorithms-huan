@@ -1,4 +1,4 @@
-# REPLACE THIS WITH TOPIC TITLE
+# Genetic Algorithms and Evolutionary Strategies
 # Team Members
 1. Huan Wang
 
