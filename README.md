@@ -28,7 +28,9 @@
 
 ## Lesson Materials
 
-Version 1 of Moth Evolution Simulation (uses averages of parent color values instead of crossing over): https://scratch.mit.edu/projects/413457430/editor/
+* Version 1 of Moth Evolution Simulation (uses averages of parent color values instead of crossing over): https://scratch.mit.edu/projects/413457430/editor/
 
-Version 2 that does basically the same thing, but uses a chromosome analogue and a random "crossover" point: https://scratch.mit.edu/projects/414228785/editor
+* Version 2 of Moth Evolution Simulation, which was a failed and aborted attempt at managing individual chromosomes for Scratch clones as list variables. I would not try this approach with students or yourself for your own sanity. Posted as an example of what not to do: https://scratch.mit.edu/projects/413742155/editor
+
+* Version 3 that manages a chromosome analogue using a global list storing all the genetic information of the entire population (named populationGenome) and includes a random "crossover" point with the potential for mutation during reproduction (also allows you to control chromosome size to see how this parameter can affect performance): https://scratch.mit.edu/projects/414228785/editor
 
