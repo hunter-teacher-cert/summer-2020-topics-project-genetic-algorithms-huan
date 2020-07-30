@@ -1,4 +1,4 @@
-# Genetic Algorithms and Evolutionary Strategies
+# Evolutionary/Genetic Algorithms 
 # Team Members
 1. Huan Wang
 
@@ -6,6 +6,9 @@
 # Instructions
 
 ## Context
+These lessons were designed specifically for a biology-centric classroom that is supplemented with CS principles in a middle school setting. Therefore, its lofty goal is to simultaneously elevate understanding of biological evolution and computer science through comparison and contrast between biological phenomena and its analogues. That said, even if this kind of lesson doesn't fit your classroom, the resources posted for learning about genetic algorithms, especially the first 2, should give you a good foundation for designing your own lessons. 
+
+With regards to the language chosen, never did I think I would appreciate Java, but trying to implement a genetic algorithm in Scratch did make me understand how useful object-oriented proramming can be. 
 
 
 ## Educator Resources for Learning about Genetic Algorithms
@@ -25,6 +28,14 @@
 * https://www.youtube.com/watch?v=WhFKPaRnTdQ (Population Genetics)
 
 ## Lesson Overview
+* Teach biological structure of genetic material (cell, nucleus, chromosome, gene, DNA)
+* Teach biological genotype/phenotype
+* Have students program an analogue to a chromosome in Scratch, leading to discussion on what can be simplified
+* Have students explore a simulation of moth evolution
+* Teach biological artificial selection and natural selection
+* Introduce CS analogue of genetic algorithms
+* Have students look under the hood of the moth simulation and comment on it, while identifying genetic algorithm components
+* Provide broader context of applications of genetic algorithms
 
 ## Lesson Materials
 
@@ -33,4 +44,6 @@
 * Version 2 of Moth Evolution Simulation, which was a failed and aborted attempt at managing individual chromosomes for Scratch clones as list variables. I would not try this approach with students or yourself for your own sanity. Posted as an example of what not to do: https://scratch.mit.edu/projects/413742155/editor
 
 * Version 3 that manages a chromosome analogue using a global list storing all the genetic information of the entire population (named populationGenome) and includes a random "crossover" point with the potential for mutation during reproduction (also allows you to control chromosome size to see how this parameter can affect performance): https://scratch.mit.edu/projects/414228785/editor
+
+* Presentation Slides: https://docs.google.com/presentation/d/1FrXVjYjByMVlmpGpHO0c_ZG3XEvSFvDgWnJzmA2Di3I/edit?usp=sharing
 
