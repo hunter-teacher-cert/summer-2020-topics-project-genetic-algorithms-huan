@@ -22,7 +22,7 @@ With regards to the language chosen, never did I think I would appreciate Java, 
 * https://www.ceas3.uc.edu/ret/archive/2018/ret/docs/readings/Project%203/2018RET_ReadingMaterial_Introduction%20to%20Genetic%20Algorithms.pdf (If you are ready to get deep in the weeds of the historical "evolution" of the different branches of evolutionary algorithms: genetic algorithms and evolutionary strategies are the focus. Honestly, after reading tons of different opinions on what distinguishes them, I'm still not sure what to think.)
 * https://pdfs.semanticscholar.org/153e/8bdb5b57c9606d40c09f685372a5c9dcdc9e.pdf?_ga=2.108973510.55027939.1596109018-341954781.1596109018 (aircraft engineering implementation)
 * https://www.researchgate.net/profile/Vittorio_Maniezzo/publication/2253354_A_Genetic_Algorithm_To_Solve_The_Timetable_Problem/links/0fcfd50ff95b8c862d000000.pdf (school timetabling implementation)
-https://www.geeksforgeeks.org/traveling-salesman-problem-using-genetic-algorithm/ (traveling salesman implementation, though the Shiffman also has a live coding version that is digestible: https://www.youtube.com/watch?v=M3KTWnTrU_c)
+* https://www.geeksforgeeks.org/traveling-salesman-problem-using-genetic-algorithm/ (traveling salesman implementation, though the Shiffman also has a live coding version that is digestible: https://www.youtube.com/watch?v=M3KTWnTrU_c)
 
 ## Educator Resources for Learning Scratch
 * https://www.youtube.com/playlist?list=PLSgUBfi51uldLxNsADEYyXoXMuBTuR7om (Playlist tutorial for Scratch)
