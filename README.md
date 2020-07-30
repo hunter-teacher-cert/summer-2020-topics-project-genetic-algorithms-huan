@@ -44,6 +44,8 @@ https://www.geeksforgeeks.org/traveling-salesman-problem-using-genetic-algorithm
 
 ## Lesson Materials
 
+* Chromosome Design Task Template: https://scratch.mit.edu/projects/414758735/editor/
+
 * Version 1 of Moth Evolution Simulation (uses averages of parent color values instead of crossing over): https://scratch.mit.edu/projects/413457430/editor/
 
 * Version 2 of Moth Evolution Simulation, which was a failed and aborted attempt at managing individual chromosomes for Scratch clones as list variables. I would not try this approach with students or yourself for your own sanity. Posted as an example of what not to do: https://scratch.mit.edu/projects/413742155/editor
